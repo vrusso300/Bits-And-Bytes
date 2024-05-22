@@ -14,7 +14,7 @@ namespace Bits_And_Bytes_Vincenzo_Russo.Models
         //Add relevant attributes for card 
         [Key]
         public int CardId { get; set; }
-
+//
         
         [Required]
         [Display(Name = "Name on Card")]
